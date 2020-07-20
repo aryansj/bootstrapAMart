@@ -1,5 +1,5 @@
 
-.title {
+#title {
   background-color: #ff4c68;
 }
 
@@ -11,6 +11,10 @@ h1 {
   margin-left: 6.25rem;
 }
 
+.container-fluid {
+  padding: 3% 15%;
+
+}
 #laptop-main-img {
   width: 600px;
   padding: 100px;
