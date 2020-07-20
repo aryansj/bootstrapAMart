@@ -1,8 +1,6 @@
+
 .title {
   background-color: #ff4c68;
-  padding-top: 200px;
-  padding-bottom: 200px ;
-  position: relative;
 }
 
 h1 {
@@ -10,12 +8,11 @@ h1 {
   font-size: 3rem;
   font-weight: 900;
   line-height: 1.5;
+  margin-left: 6.25rem;
 }
 
 #laptop-main-img {
-  width: 300px;
-  height: 225px;
-  position: absolute;
-  right: 100px; left: auto; top: auto; bottom: auto;
+  width: 600px;
 
+  padding: 100px;
 }
