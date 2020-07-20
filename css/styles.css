@@ -1,0 +1,21 @@
+.title {
+  background-color: #ff4c68;
+  padding-top: 200px;
+  padding-bottom: 200px ;
+  position: relative;
+}
+
+h1 {
+  font-family: 'Montserrat' , sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+#laptop-main-img {
+  width: 300px;
+  height: 225px;
+  position: absolute;
+  right: 100px; left: auto; top: auto; bottom: auto;
+
+}
